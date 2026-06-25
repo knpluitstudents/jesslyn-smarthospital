@@ -99,7 +99,7 @@ st.markdown("""
         Smart Hospital Patient Navigator
     </div>
     <div style="font-size:18px;color:rgba(255,255,255,0.85);font-weight:400;">
-        CODENO3
+        find the right department for new symptoms
     </div>
 </div>
 """, unsafe_allow_html=True)
