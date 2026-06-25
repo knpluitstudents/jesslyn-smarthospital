@@ -75,7 +75,7 @@ DEPT_INFO = {
     },
     'General Medicine': {
         'icon':'🩺','color':'#059669','bg':'#d1fae5','border':'#6ee7b7',
-        'desc':'CODENO37',
+        'desc':'handles general health conserns ans non-specialist condition',
         'next':['Visit Level 1, Wing A','Estimated wait: 10–15 min','Registration desk is open 24/7']
     },
     'Dermatology': {
@@ -298,7 +298,7 @@ if submitted:
         st.markdown(f"""
         <div style="background:white;border:1px solid #e5e7eb;border-radius:16px;padding:24px;">
             <div style="font-size:14px;font-weight:600;color:#111827;margin-bottom:16px;">
-                CODENO31
+               confidence by department
             </div>
         """, unsafe_allow_html=True)
 
